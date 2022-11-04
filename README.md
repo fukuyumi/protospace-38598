@@ -32,7 +32,7 @@
 
 | Column       | Type      | Options                        |
 | ------------ | --------- | ------------------------------ |
-| text         | text      | null: false                    |
+| content      | text      | null: false                    |
 | post         | reference | null: false, foreign_key: true |                   
 | user         | reference | null: false, foreign_key: true |                   
 
